@@ -1,0 +1,22 @@
+{
+    "name": "pits/voice-search",
+    "description": "A Magento 2 for Voice Search",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "PIT Solutions",
+            "email": "info@webshopextension.com",
+            "homepage": "https://www.webshopextension.com/",
+            "role": "Leader"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Pits\\VoiceSearch\\": ""
+        }
+    }
+}
