@@ -1,0 +1,14 @@
+Voice Search Extension based on Speech recognition for Magento 2
+
+1. Pre-requisites
+Magento 2.3.x or 2.4.x.
+2. Installation
+To install the module, follow the steps below.
+Step 1: Download the module/extension and unzip it.
+Step 2: Access your web server directories and upload the content of the folder into
+             app/code/Pits/VoiceSearch/ directory.
+Step 3: Run the following commands to complete the installation. 
+1. Enable the module - php bin/magento module:enable
+2. Update of the database - php bin/magento setup:upgrade
+3. Generate and pre-compile classes - php bin/magento setup:di:compile
+4.Deploy static files - php bin/magento setup:static-content:deploy
