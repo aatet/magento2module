@@ -1,0 +1,63 @@
+Voice Search
+Magento 2 Voice Search Extension is a Magento 2 extension developed by PIT solutions which helps customers to search products faster by using voice search.
+Voice search will recognise the voice from the following languages
+Afrikaans
+Amharic
+Azerbaijani
+Bangla
+Indonesian
+Malay
+Catalan (Spain)
+Czech
+Danish
+German
+English
+Spanish
+Basque (Spain)
+Filipino
+French
+Javanese
+Galician (Spain)
+Gujarati
+Croatian
+Zulu (South Africa)
+Icelandic
+Italian
+Kannada
+Khmer
+Latvian
+Lithuanian
+Malayalam
+Marathi
+Hungarian
+Lao
+Dutch
+Nepali
+Norwegian
+Polish (Poland)
+Portuguese
+Romanian
+Sinhala (Sri Lanka)
+Slovenian
+Sundanese
+Slovak
+Finnish
+Swedish
+Kiswahili (Tanzania)
+Georgian
+Armenian
+Tamil
+Telugu
+Vietnamese
+Turkish
+Urdu
+Greek
+Bulgarian
+Russian
+Serbian
+Ukrainian
+Korean
+Chinese
+Japanese
+Hindi
+Thai
